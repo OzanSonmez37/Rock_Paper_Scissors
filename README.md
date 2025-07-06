@@ -1,8 +1,10 @@
 ✊🖐✌ Rock Paper Scissors Game
+
 A fun and simple Rock Paper Scissors game built using HTML, CSS, and JavaScript. 🖥️🎮
 
 
 🔧 Features
+
 🎲 Random computer moves
 
 🧠 Instant result logic
